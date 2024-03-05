@@ -18,7 +18,7 @@ if (nome == null || nome == "" & cognome == null || cognome == "" & colorePrefer
 // messaggio da stampare a schermo
 
 let messaggio = nome + cognome + colorePreferito + "23";
-console.log(messaggio);
+//console.log(messaggio);
 
 
-document.getElementById('pswGen').innerHTML = messaggio; 
+document.getElementById('pswGen').innerHTML = messaggio;
